@@ -6,7 +6,7 @@ namespace Course
     {
         static void Main(string[] args)
         {
-            var culturaBrasileira = new CultureInfo("pt-BR");
+            var culturaBrasileira2 = new CultureInfo("pt-BR");
 
             Funcionario f1 = new Funcionario();
             Funcionario f2 = new Funcionario();
